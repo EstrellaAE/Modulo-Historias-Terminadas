@@ -73,7 +73,8 @@ Se desarrolló e implementó un módulo de asignación de fechas de liberación 
 <!-- Organigrama -->
 #### Organigrama.
 Organigrama.
-
+![Organigrama](![Uploading Captura de pantalla 2024-04-04 230958.png…]()
+)
 <!-- Diagrama Gantt -->
 #### Diagrama Gantt.
 Diagrama Gantt.
