@@ -169,8 +169,7 @@ Realiza pruebas exhaustivas del procedimiento almacenado en un entorno de desarr
 
 <!-- Arquitectura MVC y Middleware -->
 #### Arquitectura.
-Definir los patrones empleados y de seguridad.
-
+![Modelo Vista Controlador](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Modelo%20MVC.jfif)
 <!-- Código Fuente -->
 #### Código Fuente.
 Código Fuente de la solución
