@@ -54,17 +54,17 @@
 
 <!-- Acerca del proyecto -->
 ## Acerca del proyecto
-El proyecto implicó la implementación de un módulo para asignar fechas de liberación a los informes que han sido concluidos. La liberación de los informes se lleva a cabo agrupándolos por el nombre del sistema.
+El proyecto implicó la implementación de un módulo para asignar fechas de liberación a los reportes que han sido concluidos. La liberación de los reportes se lleva a cabo agrupándolos por el nombre del sistema.
 
 <!-- Descripción -->
 #### Descripción.
-El proyecto abarcó el desarrollo de un módulo para asignar fechas de liberación a los informes que estaban completos y preparados para avanzar al siguiente módulo. Además, se integró un filtro para buscar estos informes utilizando diversos campos. Una vez que se asignaba una fecha de liberación a una historia, ésta se agrupaba por sistema y dejaba de mostrarse dentro del módulo de historias terminadas, otorgándole un estado para su liberación completa. El proyecto se enfocó en cumplir con los requisitos de tiempo, costo y calidad establecidos por los stakeholders.
+El proyecto abarcó el desarrollo de un módulo para asignar fechas de liberación a los reportes que estaban completos y preparados para avanzar al siguiente módulo. Además, se integró un filtro para buscar estos reportes utilizando diversos campos. Una vez que se asignaba una fecha de liberación a una historia, ésta se agrupaba por sistema y dejaba de mostrarse dentro del módulo de historias terminadas, asignadole un estado para su liberación completa. El proyecto se enfocó en cumplir con los requisitos de tiempo, costo y calidad establecidos.
 En cuanto al tiempo, el proyecto requirió casi cuatro meses para su finalización, considerando los diversos requisitos y el esfuerzo dedicado al mismo. Este período se vio influenciado por la dedicación del equipo, que trabajó de manera comprometida y realizó una planificación y ejecución efectiva del proyecto.
 Se buscó entregar un trabajo que ofreciera funcionalidad, usabilidad y fiabilidad dentro del módulo desarrollado. El objetivo era satisfacer los requerimientos y expectativas establecidos, asegurando que el módulo cumpliera con todos los aspectos solicitados y garantizando su correcto funcionamiento.
 
 <!-- Objetivos -->
 #### Objetivos.
-Se desarrolló e implementó un módulo de asignación de fechas de liberación para reportes concluidos con funcionalidad, usabilidad y fiabilidad óptimas. Este módulo cumple con los requerimientos solicitados y las expectativas del cliente, garantizando una gestión eficiente y ordenada de los reportes por sistema. Además, se integró un sistema de filtrado de datos para facilitar y agilizar la búsqueda de los reportes deseados.
+Se ha desarrollado e implementado un módulo de asignación de fechas de liberación para reportes concluidos con funcionalidad, usabilidad y fiabilidad óptimas. Este módulo cumple cabalmente con los requerimientos solicitados y las expectativas del cliente, asegurando una gestión eficiente y organizada de los reportes por sistema. Además, se ha integrado un sistema de filtrado de datos que facilita y agiliza la búsqueda de reportes específicos dentro del sistema implementado.
 
 <!-- Organigrama -->
 #### Organigrama.
@@ -76,8 +76,8 @@ Se desarrolló e implementó un módulo de asignación de fechas de liberación 
 
 <!-- Análisis del proyecto -->
 ## Análisis de la Solución.
-Se generó una descripción detallada de las características principales del módulo, como la asignación de fechas de liberación, la agrupación por sistema y la implementación de un filtro de búsqueda. Además, se elaboró un diseño de interfaz de usuario del módulo, priorizando la usabilidad y la experiencia del usuario.
-La implementación del módulo se llevó a cabo conforme a los requisitos y el diseño establecidos, asegurando una integración fluida y coherente con el sistema existente. Se realizaron pruebas exhaustivas para garantizar la calidad y fiabilidad del módulo, identificando y corrigiendo cualquier error o fallo detectado durante este proceso. Este enfoque permitió asegurar un funcionamiento adecuado del módulo antes de su despliegue y uso en producción.
+Se generó una descripción detallada de las características principales del módulo, como la asignación de fechas de liberación, la agrupación por sistema y la implementación de un filtro de búsqueda. Se elaboró un diseño de interfaz de usuario del módulo,con usabilidad y la experiencia del usuario.
+La implementación del módulo se llevó a cabo conforme a los requisitos y el diseño establecidos, asegurando una integración fluida y coherente con el sistema existente. Se realizaron pruebas  para garantizar la calidad y fiabilidad del módulo, identificando y corrigiendo cualquier error o fallo detectado durante este proceso. Este enfoque permitió asegurar un funcionamiento adecuado del módulo antes de su despliegue y uso en producción.
 
 <!-- Requerimientos -->
 #### Requerimientos.
@@ -106,7 +106,7 @@ REQ-07: Se crea una nueva tabla en la base de datos para almacenar la informaci�
 ## Diseño de la Solución.
 Se implementará una arquitectura basada en microservicios para garantizar la escalabilidad y flexibilidad del sistema.
 El primer microservicio se encargará de la asignación de fechas, permitiendo la asignación de fechas de liberación a los reportes concluidos. Otro microservicio estará dedicado a la agrupación por sistema, facilitando la organización de los reportes según el nombre del sistema al que pertenecen. Además, se desarrollará un microservicio específico para la funcionalidad de búsqueda, ofreciendo a los usuarios la capacidad de encontrar reportes utilizando diferentes criterios.
-En cuanto a la interfaz de usuario, se diseñará una aplicación web que permitirá a los usuarios interactuar con el sistema de manera intuitiva. Esta interfaz proporcionará una experiencia de usuario fluida y amigable, facilitando la navegación y utilización de las diferentes funcionalidades ofrecidas por los microservicios.
+Se diseñará un modulo que permitirá a los usuarios interactuar con el sistema de manera intuitiva. Esta interfaz proporcionará una experiencia de usuario fluida y amigable, facilitando la navegación y utilización de las diferentes funcionalidades ofrecidas por los microservicios.
 
 <!-- Modelo Relacional -->
 #### Modelo Relacional.
@@ -128,7 +128,7 @@ Para llevar a cabo la implementación del módulo de asignación de fechas de li
 
 - Para cumplir con la solicitud de agrupar los reportes por el nombre del sistema, se diseñó la funcionalidad de manera que al seleccionar los reportes, estos se agrupen automáticamente según el nombre del sistema al que pertenecen. Esto agiliza el procedimiento de asignación de fechas al organizar los reportes de manera coherente.
 
-- Para mejorar la eficiencia en la asignación de fechas de liberación, se implementó un filtro que permite buscar los reportes por diversos campos. Esta característica facilita la identificación de los reportes deseados y agiliza el proceso de asignación de fechas.
+- Para mejorar la eficiencia en la asignación de fechas de liberación, se implementó un filtro que permite buscar los reportes por diversos campos. Esto facilita la identificación de los reportes deseados y agiliza el proceso de asignación de fechas.
 
 <!-- Estándares de Codificación -->
 #### Estándares de Codificación.
