@@ -72,13 +72,11 @@ Se desarrolló e implementó un módulo de asignación de fechas de liberación 
 
 <!-- Organigrama -->
 #### Organigrama.
-Organigrama.
 ![Organigrama](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Captura%20de%20pantalla%202024-04-04%20230958.png)
 
 <!-- Diagrama Gantt -->
 #### Diagrama Gantt.
-Diagrama Gantt.
-
+![Diagrama de Gantt](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Captura%20de%20pantalla%202024-04-04%20231108.png)
 
 <!-- Análisis del proyecto -->
 ## Análisis de la Solución.
@@ -107,9 +105,7 @@ REQ-07: Se crea una nueva tabla en la base de datos para almacenar la informaci�
 
 <!-- Diagrama de Casos de Uso -->
 #### Diagrama Casos de Uso.
-Agregar la imagen de los Casos de Uso.
-
-
+![Diagrama de caso de Uso](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Historias%20terminadas.png)
 
 <!-- Diseño del proyecto -->
 ## Diseño de la Solución.
@@ -123,8 +119,7 @@ Interfaz de Usuario: La interfaz de usuario será una aplicación web que permit
 
 <!-- Modelo Relacional -->
 #### Modelo Relacional.
-Esquema de la base de datos (nombre de campo, tipo de datos, restricciones, etc)
-
+![Modelo Relacional]()
 
 <!-- Diagrama de Clases -->
 #### Diagrama de Clases.
