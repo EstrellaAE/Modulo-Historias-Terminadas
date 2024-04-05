@@ -106,6 +106,9 @@ REQ-07: Se crea una nueva tabla en la base de datos para almacenar la informaci�
 <!-- Diagrama de Casos de Uso -->
 #### Diagrama Casos de Uso.
 ![Diagrama de caso de Uso](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Historias%20terminadas.png)
+![Imagen 1](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Caso%20de%20uso%201.png)
+![Imagen 2](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Caso%20de%20uso%202.png)
+![Imagen 3](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Caso%20de%20uso%203.png)
 
 <!-- Diseño del proyecto -->
 ## Diseño de la Solución.
@@ -119,18 +122,15 @@ Interfaz de Usuario: La interfaz de usuario será una aplicación web que permit
 
 <!-- Modelo Relacional -->
 #### Modelo Relacional.
-![Modelo Relacional]()
+![Modelo Relacional](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Modelo%20Relacional.png)
 
 <!-- Diagrama de Clases -->
 #### Diagrama de Clases.
-Esquema de las clases empleadas (atributos y sus métodos).
-
-
+![Diagrama de Clases](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Diagrama%20de%20Clases.png)
 
 <!-- Diagrama de Componentes -->
 #### Diagrama de Componentes.
-Esquema de los componentes que interactúan (Modelo, Vista, Controlador, Servidor Web, Servidor de base de datos)
-
+![Diagrama de Componentes](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Diagrama%20de%20componentes.jfif)
 
 <!-- Implementación del proyecto -->
 ## Implementación.
@@ -194,8 +194,8 @@ En ésta sección se describen los artefactos generados en base a la solución.
 
 <!-- Casos de prueba -->
 #### Casos de prueba.
-Indicar los casos de prueba
-
+![Imagen 1](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Caso%20de%20prueba%201.png)
+![Imagen 2](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Caso%20de%20prueba%202.png)
 
 <!-- Ejecución Casos de prueba -->
 #### Ejecución.
@@ -228,9 +228,7 @@ Licencia.
 Contacto.
 
 ## Participantes
-* [participante 1]()
-* [participante 2]()
-* [participante 3]()
+
 
 [contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
