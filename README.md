@@ -73,7 +73,7 @@ Se desarrolló e implementó un módulo de asignación de fechas de liberación 
 <!-- Organigrama -->
 #### Organigrama.
 Organigrama.
-![Organigrama](Captura de pantalla 2024-04-04 230958.png)
+![Organigrama](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/commit/f4edd06e1ced2a3a951762dd9a62f8d402133ad2)
 
 <!-- Diagrama Gantt -->
 #### Diagrama Gantt.
