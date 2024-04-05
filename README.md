@@ -130,11 +130,8 @@ Para llevar a cabo la implementación del módulo de asignación de fechas de li
 
 - Para mejorar la eficiencia en la asignación de fechas de liberación, se implementó un filtro que permite buscar los reportes por diversos campos. Esta característica facilita la identificación de los reportes deseados y agiliza el proceso de asignación de fechas.
 
-En resumen, la implementación del módulo de asignación de fechas de liberación cumplió con los requisitos establecidos y proporcionó una solución eficiente y fácil de usar para los usuarios del sistema.
-
 <!-- Estándares de Codificación -->
 #### Estándares de Codificación.
-Estándares empleados en la codificación
 Convenciones de Nomenclatura Consistentes:
 
 Utiliza nombres descriptivos y significativos para las tablas, columnas, procedimientos almacenados y otros objetos de la base de datos.
