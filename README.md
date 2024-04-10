@@ -68,7 +68,7 @@ Se ha desarrollado e implementado un módulo de asignación de fechas de liberac
 
 <!-- Organigrama -->
 #### Organigrama.
-![Organigrama](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Captura%20de%20pantalla%202024-04-04%20230958.png)
+![Organigrama](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Organigrama1.png)
 
 <!-- Diagrama Gantt -->
 #### Diagrama Gantt.
