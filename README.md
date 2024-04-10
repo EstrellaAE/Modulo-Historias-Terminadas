@@ -181,7 +181,7 @@ En ésta sección se describen los artefactos generados en base a la solución.
 
 <!-- Casos de prueba -->
 #### Casos de prueba.
-Caos de prueba: https://docs.google.com/spreadsheets/d/1rm5fZNyM01lEzEqW5YG1JWtt0OtXT_vShMChDIZJvJg/edit#gid=0
+Casos de prueba: https://docs.google.com/spreadsheets/d/1rm5fZNyM01lEzEqW5YG1JWtt0OtXT_vShMChDIZJvJg/edit#gid=0
 
 <!-- Ejecución Casos de prueba -->
 #### Ejecución.
