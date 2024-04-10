@@ -181,9 +181,7 @@ En ésta sección se describen los artefactos generados en base a la solución.
 
 <!-- Casos de prueba -->
 #### Casos de prueba.
-![Imagen 1](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Caso%20de%20prueba%201.png)
-![Imagen 2](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Caso%20de%20prueba%202.png)
-(https://docs.google.com/spreadsheets/d/1rm5fZNyM01lEzEqW5YG1JWtt0OtXT_vShMChDIZJvJg/edit#gid=0)
+Caos de prueba: https://docs.google.com/spreadsheets/d/1rm5fZNyM01lEzEqW5YG1JWtt0OtXT_vShMChDIZJvJg/edit#gid=0
 
 <!-- Ejecución Casos de prueba -->
 #### Ejecución.
