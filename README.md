@@ -59,7 +59,18 @@ El proyecto implicó la implementación de un módulo para asignar fechas de lib
 <!-- Descripción -->
 #### Descripción.
 El proyecto abarcó el desarrollo de un módulo para asignar fechas de liberación a los reportes que estaban completos y preparados para avanzar al siguiente módulo. Además, se integró un filtro para buscar estos reportes utilizando diversos campos. Una vez que se asignaba una fecha de liberación a una historia, ésta se agrupaba por sistema y dejaba de mostrarse dentro del módulo de historias terminadas, asignándole un estado para su liberación completa. El proyecto se enfocó en cumplir con los requisitos de tiempo, costo y calidad establecidos.
+En cuanto al tiempo, el proyecto requirió un total de cuatro meses para su finalización. La metodología utilizada fue una combinación de enfoques ágiles y tradicionales, adaptándose a las necesidades del equipo y del proyecto. Esta estrategia permitió una planificación eficaz y una ejecución fluida para concluir el trabajo de manera exitosa.
 
+Los riesgos identificados durante el proyecto incluyeron posibles cambios en los requisitos del cliente, la complejidad técnica de la integración del filtro de búsqueda y posibles demoras en la disponibilidad de recursos clave como la activacion de la herramienta FortiClient VPN.
+
+El equipo estuvo compuesto por seis integrantes, cada uno con roles específicos:
+- Eduardo Antonio Zapatero Arellano, scrum master: Responsable de la coordinación general del equipo, gestión de riesgos y comunicación con el cliente.
+- Juan David Lara Robles, administrador de Base de Datos: Responsable de garantizar una buena integridad y disponibilidad de los datos necesarios para el proyecto.
+- Juan Diego Juárez Cruz desarrollador: Encargada del desarrollo e implementación del módulo y incluyendo el filtro de búsqueda.
+- Valeria Gómez Herrera, desarrollador: Encargada de la lógica de asignación de fechas.
+- Estrella Guadalupe Aguayo Exiga, desarrollador: Encargada de el diseño del modulo.
+
+Los interesados del proyecto incluyo el departamento de tecnología de la información de la empresa NAD Global, quienes se encargaron de proporcionar el soporte técnico necesario.
 
 <!-- Objetivos -->
 #### Objetivos.
@@ -171,9 +182,7 @@ Realiza pruebas exhaustivas del procedimiento almacenado en un entorno de desarr
 ![Modelo Vista Controlador](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Modelo%20MVC.jfif)
 <!-- Código Fuente -->
 #### Código Fuente.
-Código Fuente de la solución
-
-
+Por cuestiones de seguridad no es posible compartir el código.
 <!-- Pruebas proyecto -->
 ## Pruebas.
 En ésta sección se describen los artefactos generados en base a la solución.
