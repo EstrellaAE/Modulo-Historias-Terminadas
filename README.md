@@ -58,13 +58,26 @@ El proyecto implicó la implementación de un módulo para asignar fechas de lib
 
 <!-- Descripción -->
 #### Descripción.
-El proyecto abarcó el desarrollo de un módulo para asignar fechas de liberación a los reportes que estaban completos y preparados para avanzar al siguiente módulo. Además, se integró un filtro para buscar estos reportes utilizando diversos campos. Una vez que se asignaba una fecha de liberación a una historia, ésta se agrupaba por sistema y dejaba de mostrarse dentro del módulo de historias terminadas, asignadole un estado para su liberación completa. El proyecto se enfocó en cumplir con los requisitos de tiempo, costo y calidad establecidos.
-En cuanto al tiempo, el proyecto requirió casi cuatro meses para su finalización, considerando los diversos requisitos y el esfuerzo dedicado al mismo. Este período se vio influenciado por la dedicación del equipo, que trabajó de manera comprometida y realizó una planificación y ejecución efectiva del proyecto.
-Se buscó entregar un trabajo que ofreciera funcionalidad, usabilidad y fiabilidad dentro del módulo desarrollado. El objetivo era satisfacer los requerimientos y expectativas establecidos, asegurando que el módulo cumpliera con todos los aspectos solicitados y garantizando su correcto funcionamiento.
+El proyecto abarcó el desarrollo de un módulo para asignar fechas de liberación a los reportes que estaban completos y preparados para avanzar al siguiente módulo. Además, se integró un filtro para buscar estos reportes utilizando diversos campos. Una vez que se asignaba una fecha de liberación a una historia, ésta se agrupaba por sistema y dejaba de mostrarse dentro del módulo de historias terminadas, asignándole un estado para su liberación completa. El proyecto se enfocó en cumplir con los requisitos de tiempo, costo y calidad establecidos.
+
+En cuanto al tiempo, el proyecto requirió un total de cuatro meses para su finalización. La metodología utilizada fue una combinación de enfoques ágiles y tradicionales, adaptándose a las necesidades del equipo y del proyecto. Esta estrategia permitió una planificación efectiva y una ejecución fluida para concluir el trabajo de manera exitosa.
+
+Los riesgos identificados durante el proyecto incluyeron posibles cambios en los requisitos del cliente, la complejidad técnica de la integración del filtro de búsqueda y posibles demoras en la disponibilidad de recursos clave.
+
+El equipo estuvo compuesto por seis integrantes, cada uno con roles específicos:
+- Líder del Proyecto: Responsable de la coordinación general, gestión de riesgos y comunicación con los interesados.
+- Desarrolladores (2): Encargados del desarrollo e implementación del módulo, incluyendo el filtro de búsqueda y la lógica de asignación de fechas.
+- Tester: Responsable de la verificación de la funcionalidad y usabilidad del módulo.
+- Analista de Negocios: Encargado de capturar y documentar los requisitos del cliente.
+- Administrador de Base de Datos: Responsable de garantizar la integridad y disponibilidad de los datos necesarios para el proyecto.
+
+Los interesados del proyecto incluyeron al departamento de operaciones, quienes serían los usuarios finales del módulo, así como el departamento de tecnología de la información, encargado de proporcionar el soporte técnico necesario.
+
+Se buscó entregar un trabajo que ofreciera funcionalidad, usabilidad y fiabilidad dentro del módulo desarrollado, manteniendo un enfoque centrado en la satisfacción del cliente y la efectividad operativa. 
 
 <!-- Objetivos -->
 #### Objetivos.
-Se ha desarrollado e implementado un módulo de asignación de fechas de liberación para reportes concluidos con funcionalidad, usabilidad y fiabilidad óptimas. Este módulo cumple cabalmente con los requerimientos solicitados y las expectativas del cliente, asegurando una gestión eficiente y organizada de los reportes por sistema. Además, se ha integrado un sistema de filtrado de datos que facilita y agiliza la búsqueda de reportes específicos dentro del sistema implementado.
+Se ha desarrollado e implementado un módulo de asignación de fechas de liberación para reportes concluidos con funcionalidad, usabilidad y fiabilidad óptimas. Este módulo cumple cabalmente con los requerimientos solicitados y las expectativas del cliente, asegurando una gestión eficiente y organizada de los reportes por sistema. Además, se ha integrado un sistema de filtrado de datos que facilita y agiliza la búsqueda de reportes específicos dentro del sistema implementado.Satisfacer los requerimientos y expectativas establecidos, asegurando que el módulo cumpliera con todos los aspectos solicitados y garantizando su correcto funcionamiento.
 
 <!-- Organigrama -->
 #### Organigrama.
