@@ -83,7 +83,8 @@ Se ha desarrollado e implementado un módulo de asignación de fechas de liberac
 
 <!-- Diagrama Gantt -->
 #### Diagrama Gantt.
-![Diagrama de Gantt](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Captura%20de%20pantalla%202024-04-04%20231108.png)
+![Diagrama de Gantt imagen 1](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Diagrama%20de%20Gantt%201.png)
+![Diagrama de Gantt imagen 2](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Diagrama%20de%20Gantt%202.png)
 
 <!-- Análisis del proyecto -->
 ## Análisis de la Solución.
