@@ -61,7 +61,8 @@ El proyecto implicó la implementación de un módulo para asignar fechas de lib
 El proyecto abarcó el desarrollo de un módulo para asignar fechas de liberación a los reportes que estaban completos y preparados para avanzar al siguiente módulo. Además, se integró un filtro para buscar estos reportes utilizando diversos campos. Una vez que se asignaba una fecha de liberación a una historia, ésta se agrupaba por sistema y dejaba de mostrarse dentro del módulo de historias terminadas, asignándole un estado para su liberación completa. El proyecto se enfocó en cumplir con los requisitos de tiempo, costo y calidad establecidos.
 En cuanto al tiempo, el proyecto requirió un total de cuatro meses para su finalización. La metodología utilizada fue una combinación de enfoques ágiles y tradicionales, adaptándose a las necesidades del equipo y del proyecto. Esta estrategia permitió una planificación eficaz y una ejecución fluida para concluir el trabajo de manera exitosa.
 
-Los riesgos identificados durante el proyecto incluyeron posibles cambios en los requisitos del cliente, la complejidad técnica de la integración del filtro de búsqueda y posibles demoras en la disponibilidad de recursos clave como la activacion de la herramienta FortiClient VPN.
+Los riesgos identificados durante el proyecto incluyeron posibles cambios en los requisitos del cliente, la complejidad de implementar el procedimiento almacenado ya que era muy
+difícil mandarlo llamar desde el modulo y posibles demoras en la disponibilidad de recursos clave como la activacion de la herramienta FortiClient VPN.
 
 El equipo estuvo compuesto por seis integrantes, cada uno con roles específicos:
 - Eduardo Antonio Zapatero Arellano, scrum master: Responsable de la coordinación general del equipo, gestión de riesgos y comunicación con el cliente.
