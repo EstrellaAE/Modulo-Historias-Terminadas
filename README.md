@@ -208,8 +208,7 @@ Requisitos de Instalación.
 
 <!-- Instalación -->
 ### Instalacion
-Instalación del Software
-
+https://docs.google.com/document/d/1R7yIIpENt73me5Ao57PzQnjkfDK5Owm0YOTF9qOCZAU/edit
 
 ## Guias
 Guias de Uso.
