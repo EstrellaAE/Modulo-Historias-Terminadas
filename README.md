@@ -126,11 +126,13 @@ Se diseñará un modulo que permitirá a los usuarios interactuar con el sistema
 
 <!-- Diagrama de Clases -->
 #### Diagrama de Clases.
-![Diagrama de Clases](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Diagrama%20de%20Clases.png)
+![Diagrama de Clases](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Diagrama%20de%20clases%20correcto.jfif)
 
 <!-- Diagrama de Componentes -->
 #### Diagrama de Componentes.
-![Diagrama de Componentes](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Diagrama%20de%20componentes.jfif)
+![Diagrama de Componentes](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Diagrama%20de%20componentes%20correcto.jfif)
+![Diagrama de Actividades](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Diagrama%20de%20actividades%20correcto.jfif)
+
 
 <!-- Implementación del proyecto -->
 ## Implementación.
@@ -144,83 +146,32 @@ Para llevar a cabo la implementación del módulo de asignación de fechas de li
 
 <!-- Estándares de Codificación -->
 #### Estándares de Codificación.
-Convenciones de Nomenclatura Consistentes:
-
-Utiliza nombres descriptivos y significativos para las tablas, columnas, procedimientos almacenados y otros objetos de la base de datos.
-Consistente con la capitalización y la estructura de los nombres. Por ejemplo, camelCase o snake_case.
-Evita abreviaturas poco claras o ambiguas. Prioriza la claridad sobre la brevedad.
-Documentación Clara:
-
-Documenta el propósito, la estructura y el funcionamiento de cada tabla y procedimiento almacenado.
-Proporciona comentarios en el código SQL para explicar la lógica detrás de consultas complejas o partes críticas del código.
-Utiliza herramientas de documentación de bases de datos si es posible para mantener la documentación actualizada y accesible.
-Normalización de Datos:
-
-Diseña la estructura de la base de datos de acuerdo con los principios de normalización para minimizar la redundancia y mantener la integridad de los datos.
-Divide la información en tablas relacionadas de manera lógica, evitando la duplicación de datos siempre que sea posible.
-Utiliza claves primarias y foráneas para establecer relaciones entre las tablas y mantener la coherencia de los datos.
-Pruebas Exhaustivas:
-
-Realiza pruebas unitarias para cada consulta SQL y procedimiento almacenado para garantizar que funcionen según lo esperado.
-Considera casos de prueba que cubran diferentes escenarios, como datos válidos e inválidos, condiciones de error y casos límite.
-Utiliza conjuntos de datos de prueba representativos para evaluar el rendimiento y la escalabilidad del código SQL.
-Además de estos estándares generales, aquí hay algunas prácticas recomendadas específicas para definir tablas y procedimientos almacenados:
-
-Definición de Tablas:
-
-Utiliza claves primarias para identificar de manera única cada registro en una tabla.
-Define claves foráneas para establecer relaciones entre tablas y garantizar la integridad referencial.
-Asegúrate de asignar los tipos de datos apropiados a cada columna para optimizar el almacenamiento y garantizar la consistencia de los datos.
-Evalúa y revisa periódicamente la estructura de las tablas para asegurarte de que sigan siendo adecuadas para las necesidades del sistema.
-Definición de Procedimientos Almacenados:
-
-Divide la lógica de negocio en procedimientos almacenados modulares y reutilizables para mejorar la mantenibilidad y la legibilidad del código.
-Utiliza parámetros de entrada y salida para comunicarte con el procedimiento almacenado desde otras partes de la aplicación.
-Implementa manejo de errores para capturar y gestionar excepciones de manera adecuada, proporcionando mensajes claros y significativos en caso de fallo.
-Realiza pruebas exhaustivas del procedimiento almacenado en un entorno de desarrollo antes de implementarlo en producción.
-
+Estandares de Codificaciòn de base de datos: https://docs.google.com/document/d/1i8lkzp329RRrHhN9hIkFhgoltLPJIAxOIOccSPy1zXg/edit?usp=sharing
+Estandares Javascript y .Net Framework: https://docs.google.com/document/d/1yUMDuFzVtQsiRzHWV5bTI9Qao3p5AIYmlPoXGbe6Klc/edit?usp=sharing
 <!-- Arquitectura MVC y Middleware -->
 #### Arquitectura.
 ![Modelo Vista Controlador](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Modelo%20MVC.jfif)
 <!-- Código Fuente -->
 #### Código Fuente.
 Por cuestiones de seguridad no es posible compartir el código.
-<!-- Pruebas proyecto -->
-## Pruebas.
-En ésta sección se describen los artefactos generados en base a la solución.
 
-<!-- Casos de prueba -->
-#### Casos de prueba.
+## Pruebas.
 Casos de prueba: https://docs.google.com/spreadsheets/d/1rm5fZNyM01lEzEqW5YG1JWtt0OtXT_vShMChDIZJvJg/edit#gid=0
 
 <!-- Ejecución Casos de prueba -->
 #### Ejecución.
-Evidencia de Ejecución de Casos de prueba.
-
-
-<!-- Iniciando -->
-## Iniciando
-Iniciando.
+Ejecucion casos de prueba: https://docs.google.com/spreadsheets/d/1_GUFwyHRhuaTdsvuYjla47tF713eRp2D0bjfbRRNe2k/edit?usp=sharing
 
 <!-- Requisitos -->
 ### Requisitos
-Requisitos de Instalación.
+*SQL
+*FortiClient VPN
+*Visual Studio
+*TortoiseSVN
 
 <!-- Instalación -->
 ### Instalacion
-https://docs.google.com/document/d/1R7yIIpENt73me5Ao57PzQnjkfDK5Owm0YOTF9qOCZAU/edit
-
-## Guias
-Guias de Uso.
-
-## contribucion
-Contribucion.
-
-## Licencia
-Licencia.
-
-## Contacto
-Contacto.
+Instalacion: https://docs.google.com/document/d/1R7yIIpENt73me5Ao57PzQnjkfDK5Owm0YOTF9qOCZAU/edit
 
 ## Participantes
 * Estrella Guadalupe Aguayo Exiga
