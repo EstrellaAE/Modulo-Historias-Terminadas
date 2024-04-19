@@ -170,8 +170,7 @@ Casos de prueba: https://docs.google.com/spreadsheets/d/1rm5fZNyM01lEzEqW5YG1JWt
 Ejecucion casos de prueba: https://docs.google.com/spreadsheets/d/1_GUFwyHRhuaTdsvuYjla47tF713eRp2D0bjfbRRNe2k/edit?usp=sharing
 
 #### Pantallas de ejecución.
-Pantallas de ejecucion.
-
+Pantallas de ejecucion: https://docs.google.com/document/d/1PXNEGHfd-5-TQ8t6OqIqN0PIE4DvRMl8fvbbqXu38xE/edit?usp=sharing
 
 <!-- Requisitos -->
 ### Requisitos
