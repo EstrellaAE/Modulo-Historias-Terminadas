@@ -114,6 +114,12 @@ REQ-07: Se crea una nueva tabla en la base de datos para almacenar la informaci�
 ![Imagen 2](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Caso%20de%20uso%202.png)
 ![Imagen 3](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Caso%20de%20uso%203.png)
 
+#### Historias de usuario.
+Historias de usuario: https://docs.google.com/document/d/1e4j0NltUpJdYK0rq6DVgfddsS8wkJzx16AcxFAEEpwc/edit?usp=sharing
+
+#### Pantallas de historias de usuario.
+Pantallas de Historias de usuario: https://docs.google.com/document/d/1SRFEF85qDJ02bDKS9VtaBucjzcFMeil-DgA21s_NusA/edit?usp=sharing
+
 <!-- Diseño del proyecto -->
 ## Diseño de la Solución.
 Se implementará una arquitectura basada en microservicios para garantizar la escalabilidad y flexibilidad del sistema.
@@ -134,7 +140,6 @@ Se diseñará un modulo que permitirá a los usuarios interactuar con el sistema
 
 #### Diagrama de Actividades.
 ![Diagrama de Actividades](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Diagrama%20de%20actividades%20correcto.jfif)
-
 
 <!-- Implementación del proyecto -->
 ## Implementación.
@@ -163,6 +168,10 @@ Casos de prueba: https://docs.google.com/spreadsheets/d/1rm5fZNyM01lEzEqW5YG1JWt
 <!-- Ejecución Casos de prueba -->
 #### Ejecución.
 Ejecucion casos de prueba: https://docs.google.com/spreadsheets/d/1_GUFwyHRhuaTdsvuYjla47tF713eRp2D0bjfbRRNe2k/edit?usp=sharing
+
+#### Pantallas de ejecución.
+Pantallas de ejecucion.
+
 
 <!-- Requisitos -->
 ### Requisitos
