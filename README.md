@@ -1,7 +1,7 @@
 # Integradora II
 [![Contribuidores][contribuidores-shield]][contributors-url]
 
-## contenido
+## Contenido
 <details>
   <summary>Tabla contenidos</summary>
   <ol>
@@ -131,6 +131,8 @@ Se diseñará un modulo que permitirá a los usuarios interactuar con el sistema
 <!-- Diagrama de Componentes -->
 #### Diagrama de Componentes.
 ![Diagrama de Componentes](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Diagrama%20de%20componentes%20correcto.jfif)
+
+#### Diagrama de Actividades.
 ![Diagrama de Actividades](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Diagrama%20de%20actividades%20correcto.jfif)
 
 
@@ -148,7 +150,7 @@ Para llevar a cabo la implementación del módulo de asignación de fechas de li
 #### Estándares de Codificación.
 Estandares de Codificaciòn de base de datos: https://docs.google.com/document/d/1i8lkzp329RRrHhN9hIkFhgoltLPJIAxOIOccSPy1zXg/edit?usp=sharing
 Estandares Javascript y .Net Framework: https://docs.google.com/document/d/1yUMDuFzVtQsiRzHWV5bTI9Qao3p5AIYmlPoXGbe6Klc/edit?usp=sharing
-<!-- Arquitectura MVC y Middleware -->
+
 #### Arquitectura.
 ![Modelo Vista Controlador](https://github.com/EstrellaAE/Modulo-Historias-Terminadas/blob/main/Modelo%20MVC.jfif)
 <!-- Código Fuente -->
